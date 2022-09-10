@@ -64,11 +64,19 @@
 > LET's take a example that every project have atleast one Employee and every employee has atleast one project then
 >
 >  ![image of one to one relationship](https://github.com/RAGHAVSHARMA01/E-R-model/blob/main/m%20to%20m.png)
->
+>  ```
 > - Degree -> Do it Your self 
 > - Cardinality Ratio -> Do it yourself
 > - Participation -> Do it yourself
-
+> ```
+>
+> ---
+> #### Strong Entity and Weak Entity
+>  Those entites which can be identified with its own attributes **uniquely** are known as Strong entities 
+>  Those entites which need to be dependend on other attributes to be identified **uniquely** are Weak entities
+>
+> **Note**
+>   Strong entites have their own primary key, Participation of the weak entity will always be Total 
 
 
 
