@@ -11,6 +11,9 @@
 >Layman would say this as real worl object that can be differential and guess what this is the meaning of the Entity for any technical person also for the common understanding.
 >    Example would make thing easy to understan like we can say Book is a **Entity set** and the DBMS book will be a **entity**
 >    - **Entity Set** - Collection of the entities that can share similar properties can be considered as the entity set.
+>
+>  ![Image of the entity and attribute](https://github.com/RAGHAVSHARMA01/E-R-model/blob/main/1.png)   
+>
 > ### Attritute - 
 > There are the properties that can be used to express any entity or the entity set or any physical thing for that matter is the attribute of the formal.
 >
@@ -36,6 +39,9 @@
 >
 > #### ONE TO MANY RELATIONSHIP - 
 > LET's take a example that every employee works for exactaly one department and the department can have more than one employees,  New deparrtment need not to have any new employee
+>
+> ![Image of a one to many relationship](https://github.com/RAGHAVSHARMA01/E-R-model/blob/main/o%20to%20m.png)
+>
 >   - Degree of ER model -> Number of entities participating in an relationship is known as degree. IN this case 2 entitie are there one is employee and the other is department so the degree here is 2
 >   - Cardinality Ratio -> Max. number of time entity can participate in the relationship. This should be calculate foe each entity in participation. In the example here the cardinality ratio of employee is 1 and the cardinality ratio of teh department is 2 as d2 have two employee e1 and e2 in his department
 > - Participation or Existence -> Min. number of times entity can participate in a relationship. In the example above employee has participation as 1 and the deaprtment has 0 participation because d4 has no employee in it
@@ -46,13 +52,19 @@
 >
 > #### ONE TO ONE RELATIONSHIP - 
 >
+> ![image of one to one relationship](https://github.com/RAGHAVSHARMA01/E-R-model/blob/main/o%20to%20o.png)
+>
+>
 > LET's take a example that every department should have a manager and only one employee will manage one department (employee can manage only one department)
 > - Degree -> Here the degree would be 2
 > - Cardinality Ratio -> Employee has 1 and department also have 1
 > - Participation or Existence -> Employee has it as 0 ( partial) and department has it as 1 ( total)
-> #### ONE TO ONE RELATIONSHIP -
+> #### MANY TO MANY RELATIONSHIP -
 >
-> LET's take a example that every project have atleast one Employee and every employee has atleast one project then 
+> LET's take a example that every project have atleast one Employee and every employee has atleast one project then
+>
+>  ![image of one to one relationship](https://github.com/RAGHAVSHARMA01/E-R-model/blob/main/m%20to%20m.png)
+>
 > - Degree -> Do it Your self 
 > - Cardinality Ratio -> Do it yourself
 > - Participation -> Do it yourself
