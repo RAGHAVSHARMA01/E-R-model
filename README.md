@@ -77,7 +77,8 @@
 >
 > **Note**
 >   Strong entites have their own primary key, Participation of the weak entity will always be Total 
-
+>
+> *By - Raghav*
 
 
 
