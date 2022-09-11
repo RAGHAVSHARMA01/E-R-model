@@ -1,20 +1,21 @@
 #  E-R Model 
 ---
-> E-R stands for the entity relation model.It is a high-level data model. This model is used to define the data elements and relationship for a specified system.In other words we can say that the E-R model is the conceptual model by which you can convieve the structure of database, maintain relationships between componetn & identify the constraints that occure in the integrated design of the complete database system.
+> E-R stands for the entity relation model. It is a high-level data model. This model is used to define the data elements and relationship for a specified system. In other words we can say that the E-R model is the conceptual model by which you can convieve the structure of database, maintain relationships between componetn & identify the constraints that occure in the integrated design of the complete database system.
 >
 > There are 3 components of the E-R model
 >   - Entity
 >   - Attribute
 >  - Relationship
- >  
+>  
+> ![Image will tell us about Entity, Attribute, Relationship](https://miro.medium.com/max/529/1*P4Ek1GzkV1g06zh9y1Qj1g.png)
 > ### Entity - 
->Layman would say this as real worl object that can be differential and guess what this is the meaning of the Entity for any technical person also for the common understanding.
+>Layman would say this as real world object that can be differential and guess what this is the meaning of the Entity for any technical person also for the common understanding.
 >    Example would make thing easy to understan like we can say Book is a **Entity set** and the DBMS book will be a **entity**
 >    - **Entity Set** - Collection of the entities that can share similar properties can be considered as the entity set.
 >
 >  ![Image of the entity and attribute](https://github.com/RAGHAVSHARMA01/E-R-model/blob/main/1.png)   
 >
-> ### Attritute - 
+> ### Attritube - 
 > There are the properties that can be used to express any entity or the entity set or any physical thing for that matter is the attribute of the formal.
 >
 > OR 
